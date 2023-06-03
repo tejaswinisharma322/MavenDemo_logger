@@ -51,7 +51,6 @@ import org.openqa.selenium.support.PageFactory;
 	}
 	
 	//trial
-
 	
 	//@FindBy(xpath= ".//a[contains(text(),'Login')])[1])")
 	//private WebElement loginbtn1;

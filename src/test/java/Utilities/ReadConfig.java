@@ -25,6 +25,7 @@ public class ReadConfig
 			prop.load(f);
 		}
 		
+		
 		catch(Exception e)
 		{
 			System.out.println("Exception is"+e.getMessage());
